@@ -9,7 +9,7 @@ public class StartTest {
 	@Test
 	public void testString() {
 		Start obj = new Start();
-		assertEquals("Gleicher Text","Hello World",obj.sayHelloWorld());
+		assertEquals("Gleicher Text","Hello World !!!",obj.sayHelloWorld());
 	}
 
 }

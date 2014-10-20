@@ -8,7 +8,7 @@ public class Start {
 	private final static Logger s_logger = LogManager.getLogger();
 	public String sayHelloWorld(){
 		s_logger.info("Start Hello World");
-		return "Hello World";
+		return "Hello World !!!";
 	}
 
 }
